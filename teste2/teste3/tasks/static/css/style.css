@@ -1,0 +1,30 @@
+body{
+    background-color: #333;
+}
+
+.container-fluid{
+    padding: 0px;
+}
+
+.navbar{
+    height: 100px;
+    border-bottom: 2px solid rgb(107, 82, 201);
+}
+
+.navbar-nav{
+    position: relative;
+    margin: auto;
+    border-bottom: 1px solid #0000;
+    font-size: 30px;
+}
+
+/* footer */
+
+footer{
+    height: 200px;
+    width: auto;
+    background-color: azure;
+    text-align: center;
+    border-top: 2px solid black;
+    font-size: 50px;
+}
